@@ -1,9 +1,0 @@
-django
-
-django-crispy-forms
-
-geopy
-django-geoip2-extras
-
-folium
-
