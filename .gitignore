@@ -1,0 +1,6 @@
+.vscode
+env/
+geo_location_scr/
+ckeditor_Blog/
+
+django_rest_demo/
